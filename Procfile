@@ -1,1 +1,1 @@
-worker: python versions.py
+web: python versions.py
