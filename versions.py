@@ -1,4 +1,5 @@
-import os, platform
+import os
+import platform
 print("Operating system name:")
 print(os.name)
 print("Platform name:")
